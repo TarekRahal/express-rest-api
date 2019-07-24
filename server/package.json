@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarek Rahal",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
